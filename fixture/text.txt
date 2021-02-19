@@ -1,0 +1,3 @@
+Some text
+And more text
+Second commit line
